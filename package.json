@@ -1,5 +1,5 @@
 {
-  "name": "react-native-segmented-round-display",
+  "name": "@aguycalled/react-native-segmented-round-display",
   "version": "1.0.0",
   "description": "react-native-segmented-round-display provides a simple ARC component, drawn with react-native-svg, it can have one or more segments and its easy configurable.",
   "main": "index.js",
